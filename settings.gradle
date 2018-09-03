@@ -1,1 +1,1 @@
-include ':app', ':settingslib'
+include ':app'
